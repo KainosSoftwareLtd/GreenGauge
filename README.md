@@ -1,0 +1,44 @@
+# Green Software Maturity Assessment
+
+The aim of this document is to enable people to benchmark how green their software is on a scale of 1 to 5, where 1 is the worst and 5 is the best, for a variety of pillars which are subdivided into sections. 
+- Architecture
+  - Principles
+  - Design
+  - Storage
+  - Compute
+  - Networking
+  - Non-functional requirements
+  - Governance
+  - Scalability
+  - Development
+- Measurement
+  - Data
+  - Standards
+  - Carbon Proxies
+  - KPI's
+  - Benchmarking
+- Continuous Delivery
+  - Build
+  - Deployment and Release
+  - Operations
+  - Testing
+- Service Design
+  - Requirements
+  - Optimising user journeys
+  - Circularity and reuse
+  - Business model
+- User Experience
+  - Energy efficient defaults
+  - Optimising endpoints
+  - User education and behaviour
+- Planning
+  - Green debt
+  - Roadmap
+  - Business alignment
+- Culture
+  - Green software advocacy
+  - Leading change
+  - Decision making
+  - Sharing
+  - Shifting left
+  - Code efficiency
