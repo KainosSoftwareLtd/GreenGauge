@@ -10,7 +10,7 @@ Create a group of green software champions who work within your organisation to 
 
 ### For 1 point
 
-**Advocacy**: We're haven't really thought too much about it as Green Software is so new to us.
+**Advocacy**: We haven't really thought too much about it as Green Software is so new to us.
 
 ### For 3 points
 

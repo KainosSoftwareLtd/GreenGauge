@@ -1,7 +1,7 @@
 # Architecture - Development
 
 The environmental impact of our software depends on how we choose to develop it throughout all its different stages.
-For example, if our development approach requires each developer to have a new, high-specification device to create a development environment or troubleshoot problems locally, our impact can be much greater than if leveraging cloud development environments.
+For example, if our development approach requires each developer to have a new, high-specification device to create a development environment or troubleshoot problems locally, our impact can be much greater than if using cloud development environments.
 
 ## The main ideas in this section
 

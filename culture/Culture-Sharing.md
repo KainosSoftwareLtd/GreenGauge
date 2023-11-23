@@ -24,6 +24,6 @@ Cultivating an open, inclusive culture around sharing and green software will he
 
 ### For 5 points
 
-"Sharing: There is a staff ideas forum where things that have worked well within a team can be shared across the organisation. This is inclusive and provides a great way to share learnings beyond individuals. People feel psychological safe sharing failures.
+**Sharing**: There is a staff ideas forum where things that have worked well within a team can be shared across the organisation. This is inclusive and provides a great way to share learnings beyond individuals.
 
-**Learning**: People feel safe sharing successes, lessons learnt and failures.
+**Learning**: People feel safe sharing both successes and lessons learned from their experiences.
