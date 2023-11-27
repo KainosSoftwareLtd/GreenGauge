@@ -1,8 +1,8 @@
-# User Experience Maturity
+# User experience maturity
 
 This pillar of the maturity model covers ....
 
-* [Energy efficent defaults](#Energy-efficient-defaults)
+* [€Energy efficent defaults](#Energy-efficient-defaults)
 * [Optimising for devices](#Optimising-for-devices)
 * [User Education and Behaviour ](#User-education-and-behaviour)
 
