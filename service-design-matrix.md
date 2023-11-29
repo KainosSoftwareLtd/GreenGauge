@@ -2,14 +2,12 @@
 
 This pillar of the maturity model covers ....
 
-* [Requirements](#Requirements)
+* [Gathering requirements](#Gathering-requirements)
 * [Optimising user journeys](#Optimising-user-journeys)
 * [Circularity and reuse](#Circularity-and-reuse)
-* [Business model](#Business-model)
+* [Greener business model](#Greener-business-model)
 
-
-
-### Requirements
+### Gathering requirements
 You don’t need to make software that is not necessary. You can avoid waste by questioning the requirements and making sure you really need a new feature before you start developing it. You should test your needs quickly, using evidence from user feedback and data to prove the value of your products, services, or features.  
 
 | Measure | Description | Score: 1 | Score: 3 | Score: 5 |
@@ -37,7 +35,7 @@ Design services for circularity can reduce software's environmental impact throu
 | **Communities of Practice** | A community of practice has a common goal and make your technologies compatible across projects, even those that are not related to a common cause. | Sharing of approaches, solutions and patterns tends to be informal and organic. There is no concentrated effort to encourage re-use and sharing within the organisation. | There is organisational support to facilitate the sharing of approaches, solutions and patterns; forums and mechanisms exist for teams to share with one another with possible examples of this happening. | There is organisational support to facilitate the sharing of approaches, solutions and patterns; forums and mechanisms exist for teams to share with one another. This happens consistently with communities formed to support these mechanisms and drive forward common themes. |
 | **Working in the Open** | You open up access to source code, use Open Data, Standards and Interfaces, and maintain documentation and getting started guides to make code re-use easier. | Our source code is available within the organisation though the documentation tends to be written to be consumed within our team. We try to align with open standards/data when we can. | Our source code is available within the organisation, documentation is written from the perspective that it will be used throughout the organisation with at least a getting started guide. We align with open standards and data. | Our source code is available within the organisation. We align with open standards/data with services designed for ease of integration and extensibility. Documentation is written from the perspective that it will be used throughout the organisation with clear getting started, contribution and issue-raising guidelines. |
 
-### Business model
+### Greener business model
 Create a sustainable business model to promote eco-friendly practices and help guard against greenwashing. For example, if your product operates a subscription-based model, you might encourage energy-efficient usage through tiered pricing by carbon impact.  
 
 | Measure | Description | Score: 1 | Score: 3 | Score: 5 |

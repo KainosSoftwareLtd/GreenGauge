@@ -5,7 +5,7 @@ This pillar of the maturity model covers ....
 * [Green software advocacy](#Green-software-advocacy)
 * [Leading change](#Leading-change)
 * [Decision making](#Decision-making)
-* [Sharing](#Sharing)
+* [Sharing openly](#Sharing-openly)
 * [Shifting left](#Shifting-left)
 * [Code efficiency](#Code-efficiency)
 
@@ -31,7 +31,7 @@ Using the data you collect to influence your future decision making. Define how 
 | --- | --- | --- | --- | --- |
 | **Data Driven** | Making eco-conscious decisions based on evidence, insights and informed analysis. | We look for available data sources to support our decisions but it often isn't available or mature enough. When data isn't available we'll make assumptions or educated guesses to plug the gaps. | We identify qualitative data-sources we need to make informed decisions and where this is not available we will plug the gap ourselves from publicly available data-sources and relevant techniques. We analyse historic data to inform our decisions. | We identify qualitative data-sources we need to make informed decisions and where this is not available we will plug the gap ourselves from publicly available data-sources and relevant techniques. We use historic data as a gauge, we apply predictive methods to the analysis to make inferences about the future. |
 
-### Sharing
+### Sharing openly
 We can all learn from each other’s experiences, but only if we share successes and failures. Cultivating an open, inclusive culture around sharing and green software will help foster innovation and build momentum. 
 
 | Measure | Description | Score: 1 | Score: 3 | Score: 5 |

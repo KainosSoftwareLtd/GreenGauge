@@ -1,22 +1,34 @@
-# Green software maturity assessment
+# GreenGauge - Green software maturity assessment
 
-The Green software maturity assessment is intended to be a self-assessment tool enabling teams and organisations to identify tangible things they might change to improve their alignment with green principles, patterns, and processes.
+Focusing on rapid self-assessment, we wanted to create a tool allowing people to quickly self-evaluate their teams or organisations practices to better identify things they might change to reduce the carbon impact of their software.
 
 ### CMMI Approach
 
-The Capability Maturity Model Integration (CMMI) is framework often used to first benchmark and that guide a structured approach to process improvement. The CMMI maturity model consists of five levels, each representing a stage in an organization's maturity and capability in managing and executing its processes. 
+The Capability Maturity Model Integration (CMMI) is framework often used to assess the maturity of things on a scale of 1 to 5. The first stage typically is to benchmark where you are, then using the framework to guide systematic improvements across areas. Each of the 5 levels of the CMMI then represents a stage in an organisation's maturity as identified below. 
 
 
-1. Level 1: An initial state, where processes are often ad hoc and chaotic. 
-2. Level 2: Managed processes indicate that some basic practices are in place. 
-3. Level 3: Defined and standardised set of processes.
-4. Level 4: Quantitatively managed processes.
-5. Level 5: Continuously optimised processes.
+1. **Level 1**: An initial state, where processes are often ad hoc and chaotic. 
+2. **Level 2**: Managed processes indicate that some basic practices are in place. 
+3. **Level 3**: Defined and standardised set of processes.
+4. **Level 4**: Quantitatively managed processes.
+5. **Level 5**: Continuously optimised processes.
 
-Our interpretation of CMMI for this assessment is to define the states for Level 1, 3 and 5 across a number of pillars enabling rapid self-assessment against practices. Its not meant to be canonically correct, but to indicate by absence or presence of certain practices areas you might wish to focus on for improvement.
+Our interpretation of CMMI is to define the states for Levels 1, 3 and 5 across a number of pillars which we believe are integral to building greener softare. We've left Levels 2 and 4 undefined as transition states e.g. where you think you might not quite be a 3, but certainly better than 1. 
+
+### Using this assessment
+Work through each of the pillars and honestly assess your level of maturity relative to the descriptions in this handy scoring guide; fuzzyness is intended to keep things simple and you should apply the 'mostly' principle when considering your scores.
+
+* If you mostly do something, you do it
+* If you don't, then yon don't 
+
+Utilise the transition levels of 2 and 4 where you believe you don't quite hit the brief.
+
+Having done this average up your scores per pillar and plot them on a spider chart to understand relative maturity across the pillars and which areas you might wish to focus on for improvement going forward.
+
+Repeat this benchmark every 3 months to track progress and review your improvement plans.
 
 ### Assessment Pillars
-You will find the CMMI model for each of the pillars in the documents below
+You will find the CMMI framework for each of the pillars in the links below
 
 | Pillar | Description |
 |---|---|
