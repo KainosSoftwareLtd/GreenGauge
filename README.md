@@ -13,10 +13,10 @@ The Capability Maturity Model Integration (CMMI) is framework often used to firs
 4. Level 4: Quantitatively managed processes.
 5. Level 5: Continuously optimised processes.
 
-Our interpretation of CMMI for this assessment is to define the states for Level 1, 3 and 5 across a number of pillars enabling rapid self-assessment against practices. Its not meant to be connoically correct, but to indicate by absence or presence of certain practices areas you might wish to focus on for improvement.
+Our interpretation of CMMI for this assessment is to define the states for Level 1, 3 and 5 across a number of pillars enabling rapid self-assessment against practices. Its not meant to be canonically correct, but to indicate by absence or presence of certain practices areas you might wish to focus on for improvement.
 
 ### Assessment Pillars
-You will find in each of the documents the CMMI model for the below pillars
+You will find the CMMI model for each of the pillars in the documents below
 
 | Pillar | Description |
 |---|---|
