@@ -13,7 +13,7 @@ The Capability Maturity Model Integration (CMMI) is framework often used to asse
 4. **Level 4**: Quantitatively managed processes.
 5. **Level 5**: Continuously optimised processes.
 
-Our interpretation of CMMI is to define the states for Levels 1, 3 and 5 across a number of pillars which we believe are integral to building greener softare. We've left Levels 2 and 4 undefined as transition states e.g. where you think you might not quite be a 3, but certainly better than 1. 
+Our interpretation of CMMI is to define the states for Levels 1, 3 and 5 across a number of pillars which we believe are integral to building greener software. We've left Levels 2 and 4 undefined as transition states e.g. where you think you might not quite be a 3, but certainly better than 1. 
 
 ### Using this assessment
 Work through each of the pillars and honestly assess your level of maturity relative to the descriptions in this handy scoring guide; fuzzyness is intended to keep things simple and you should apply the 'mostly' principle when considering your scores.
@@ -39,3 +39,13 @@ You will find the CMMI framework for each of the pillars in the links below
 | [User Experience](docs/user-experience-matrix.md) | How you can optimise the user experience and also educate your users to make sustainable choices. |
 | [Planning](docs/planning-matrix.md) | How you can help carbon reduction at the planning stage. |
 | [Culture](docs/culture-matrix.md) | How you can encourage a positive culture both internally and externally. |
+
+### Useful Links
+
+[Kainos' Green Software Commitment](https://www.kainos.com/about-us/sustainability/green-software)
+[Linux Foundation Green Software For Practitioners Course](https://trainingportal.linuxfoundation.org/courses/green-software-for-practitioners-lfc131)
+[The Green Software Foundation](https://greensoftware.foundation)
+[Software Carbon Intensity (SCI) on GitHub](https://github.com/Green-Software-Foundation/sci)
+[Greenhouse Gas (GHG) Protocol](https://ghgprotocol.org)
+
+
